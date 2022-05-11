@@ -39,3 +39,4 @@ while 1:
     else:
         print("1-7 사이의 숫자를 입력해주세요.:")
     
+    break
